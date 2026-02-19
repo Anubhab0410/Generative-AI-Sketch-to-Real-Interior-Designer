@@ -50,6 +50,6 @@ To simulate a professional ML research environment, the project was divided into
 2. **Environment:** Recommended for **Google Colab** with a T4 GPU or higher.
 3. **Requirements:**
 ```bash
-pip install diffusers transformers accelerate peft xformers
+pip install -r requirements.txt
 
 ```
