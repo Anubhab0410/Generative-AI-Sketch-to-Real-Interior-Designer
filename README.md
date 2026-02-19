@@ -1,6 +1,8 @@
 # **IKEA-Gen: Specialized Interior Design via ControlNet & LoRA**
 
-### <img width="1259" height="605" alt="image" src="https://github.com/user-attachments/assets/096844cd-8145-4189-9ca5-770fb3119724" />
+### <img width="1259" height="605" alt="image" src="https://github.com/user-attachments/assets/b6a4fefa-a49e-4d1a-95fd-6b523043912f" />
+
+
 
 
 
